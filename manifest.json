@@ -1,0 +1,28 @@
+{
+  "name": "BTTUNE",
+  "short_name": "BTTUNE",
+  "icons": [
+    {
+      "src": "https://assets.vercel.com/image/upload/v1573246280/front/favicon/vercel/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://assets.vercel.com/image/upload/v1573246280/front/favicon/vercel/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "id": "BTTUNE9392",
+  "description": "hgg",
+  "start_url": "vite-react-bawxpr5ad-monuhort-gmailcoms-projects.vercel.app",
+  "dir": "auto",
+  "scope": "vite-react-bawxpr5ad-monuhort-gmailcoms-projects.vercel.app",
+  "lang": "en",
+  "categories": [
+    "music"
+  ]
+}
